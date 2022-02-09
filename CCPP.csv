@@ -1,0 +1,12 @@
+Coal,Coal Gasification,Natural Gas,Furnace Oil,Class
+0,-1,-1,-1,Lifetime of plant 
+0,-1,0,1,Safety of plant
+0,-2,-1,0,Maturity of Pant
+0,1.5,2,0.5,Overall Efficiency
+0,-2,-1,-1,Investment Cost
+0,-2,-1,-1,O&M
+0,1.5,-2,-2,Availability  & Cost of Resources
+0,2,1,-1,Jobs Provided
+0,2,1,-2,Social Acceptance
+0,2,2,0.5,Global Warming Potential 
+0,0,1,1,Resources Extraction & Transport
